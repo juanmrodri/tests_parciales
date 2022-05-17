@@ -4,19 +4,19 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../src/arrayCencista.c \
+../src/arrayCensista.c \
 ../src/arrayZona.c \
 ../src/pruebas_parcial.c \
 ../src/utn.c 
 
 OBJS += \
-./src/arrayCencista.o \
+./src/arrayCensista.o \
 ./src/arrayZona.o \
 ./src/pruebas_parcial.o \
 ./src/utn.o 
 
 C_DEPS += \
-./src/arrayCencista.d \
+./src/arrayCensista.d \
 ./src/arrayZona.d \
 ./src/pruebas_parcial.d \
 ./src/utn.d 
